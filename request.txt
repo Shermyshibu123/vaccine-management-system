@@ -1,0 +1,1 @@
+HospitalId H#777780815;CowinRequired 45;CovishieldRequired 58;
