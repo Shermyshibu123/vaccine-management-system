@@ -24,7 +24,7 @@ void Admin::adminLogin()//For admin login
     std::cout << "\n\t\t\t\t*****************************************";
     std::cout << "\n\t\t\t\t   *    VACCINE MANAGEMENT SYSTEM    *";
     std::cout << "\n\t\t\t\t*****************************************";
-    std::cout << "\n\n\t\t -->> LOGIN ADMIN <<--\n";
+    std::cout << "\n\n\t\t -->> ADMIN LOGIN <<--\n";
     std::cout << "\n\t\tEnter Your Password: ";
     std::cin >> adminpassword;
 
