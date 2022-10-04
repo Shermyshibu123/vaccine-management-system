@@ -1,0 +1,6 @@
+Name SKM;Id H#1449392811;Address kollam;Pincode 654714;Cowin 200;Covishield 600;TotalVaccine 800;
+Name UKT;Id H#1593728605;Address hariyana;Pincode 652487;Cowin 335;Covishield 754;TotalVaccine 1089;
+Name Cube;Id H#335489490;Address Cube India;Pincode 570012;Cowin 85;Covishield 75;TotalVaccine 160;
+Name Lulu;Id H#639805846;Address KOchi;Pincode 570011;Cowin 45;Covishield 55;TotalVaccine 100;
+Name Aster;Id H#777780815;Address Kochi;Pincode 684020;Cowin 412;Covishield 503;TotalVaccine 915;
+Name sunshine;Id H#1488994808;Address kallor;Pincode 675675;Cowin 23;Covishield 34;TotalVaccine 57;

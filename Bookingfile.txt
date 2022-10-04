@@ -1,0 +1,3 @@
+Name Nirmal;PhoneNo 9856451254;Pincode 684020;Hospital Aster;Dose1 Cowin;DateOfDose1 26/05/2022;Dose2 Cowin;DateOfDose2 26/09/2022;
+
+Name jay;PhoneNo 9638527411;Pincode 652487;Hospital UKT;Dose1 Cowin;DateOfDose1 27/04/2022;Dose2 Cowin;DateOfDose2 28/09/2022;
